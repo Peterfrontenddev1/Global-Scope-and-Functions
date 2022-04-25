@@ -18,3 +18,4 @@ Initialize it with a value of 10.
 
 Inside function fun1, assign 5 to oopsGlobal without using the let or const keywords.
 myGlobal should be defined
+myGlobal should have a value of 10
