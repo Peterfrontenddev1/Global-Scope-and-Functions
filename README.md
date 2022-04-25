@@ -11,3 +11,5 @@ Variables which are declared without the let or const keywords are automatically
 This can create unintended consequences elsewhere in your code or when running a function again.
 
 You should always declare your variables with let or const.
+
+Using let or const, 
