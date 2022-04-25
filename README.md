@@ -17,6 +17,7 @@ Using let or const,  declare a global variable named myGlobal outside of any fun
 Initialize it with a value of 10.
 
 Inside function fun1, assign 5 to oopsGlobal without using the let or const keywords.
+
 myGlobal should be defined
 myGlobal should have a value of 10
 myGlobal should be declared using the let or const keywords
