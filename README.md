@@ -9,4 +9,5 @@ This means,  they can be seen everywhere in your JavaScript code.
 Variables which are declared without the let or const keywords are automatically created in the global scope.
 
 This can create unintended consequences elsewhere in your code or when running a function again.
+
 You should always declare your variables with let or const.
