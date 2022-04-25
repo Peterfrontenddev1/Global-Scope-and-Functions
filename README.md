@@ -1,2 +1,2 @@
 # Global-Scope-and-Functions
-In JavaScript, 
+In JavaScript, scope refers to the visibility of variables.
