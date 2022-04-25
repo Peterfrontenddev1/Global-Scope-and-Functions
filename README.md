@@ -12,4 +12,4 @@ This can create unintended consequences elsewhere in your code or when running a
 
 You should always declare your variables with let or const.
 
-Using let or const, 
+Using let or const,  declare a global variable named myGlobal outside of any function.
